@@ -1,0 +1,77 @@
+@media screen and (max-width: 1239px) {
+          .uvlech {
+                    position: static;
+                    margin: auto;
+          }
+
+          .fixer {
+                    height: 2480px;
+          }
+
+          .b {
+                    height: 0;
+          }
+
+          .boocks, .walking, .gaming, .code, .science {
+                    width: 98%;
+                    margin: 0 1% 0 1%;
+                    display: block;
+                    margin: auto;
+                    margin-bottom: 40px;
+          }
+
+          .uslugy {
+                    display: block;
+                    margin: auto;
+                    margin-bottom: 40px;
+          }
+
+          .uslugy:last-child {
+                    margin: auto;
+
+          }
+
+          .photo {
+                    display: block;
+                    margin: auto;
+                    margin-top: 100px;
+          }
+
+          .info_me {
+                    max-width: 400px;
+                    display: block;
+                    margin: auto;
+                    padding: 0 20px 0 20px;
+                    margin-bottom: 100px;
+                    text-align: justify;
+          }
+
+          .fixer {
+
+          }
+}
+
+@media screen and (max-width: 520px) {
+          nav li {
+                    font-size: 20px;
+          }
+
+          .deb h1 {
+                    font-size: 40px;
+                    padding: 0 20px 0 20px;
+          }
+
+          .deb p {
+                    font-size: 30px;
+          }
+
+          .deb  p:before {
+                    width: 40px;
+                    left: -44px;
+          }
+
+          .deb  p:after {
+                    width: 40px;
+                    right: -44px;
+          }
+}
